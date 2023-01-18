@@ -17,4 +17,3 @@ With the custom-IBM-vpc-Terraform, you can deploy following architecture:
 After the infrastructure is deployed you can test it. Logon into the server: ``$ssh core@server-ip``
 
 It is only possible to access the server via SSH. Therefore only port 22 is allowed.
-# terraform
