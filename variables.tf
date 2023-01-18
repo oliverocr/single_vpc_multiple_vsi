@@ -94,4 +94,3 @@ variable "profile-server" {
 variable "server-name" {}
 
 variable "server-count" {}
-}
